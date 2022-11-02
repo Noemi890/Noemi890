@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Noemi890/Noemi890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Noemi and I am a Junior Software Developer ready to take on a challenge and grow within the tech Industry!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own Portfolio
+- 🌱 I’m still growing my knowledge on Javascript
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: I love playing Videogames in my spare time or chilling on the couch with a good movie/tvSeries to see!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noemi890&theme=aura&show_icons=true" />
+  
+&nbsp;
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noemi890&theme=outrun&layout=compact" />
+  
+</div>

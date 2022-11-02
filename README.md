@@ -43,7 +43,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title="Material UI" alt="Material UI" width="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" />

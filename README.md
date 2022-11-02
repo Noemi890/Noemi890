@@ -38,14 +38,18 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align='center'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title="Material UI" alt="Material UI" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" title="Prisma" alt="Prisma" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="60" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="60" />
 </div>
 
 ---

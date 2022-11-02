@@ -19,7 +19,7 @@
 <h4 align='center'>My name is Noemi and I am a Junior Full Stack Developer from London, ready to take on a challenge and grow within the tech Industry!</h4>
 &nbsp;
 <div align='center'>
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt=""/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="" width="300"/>
 </div>
 &nbsp;
 
@@ -30,8 +30,11 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on my own Portfolio
-- 🌱 I’m still growing my knowledge on Javascript and React
-- ⚡ Fun fact: In my spare time I love playing Videogames and chilling on the couch with a good movie/tvSeries to watch! 📺
+- 🎓 Recently graduated from <a href="https://boolean.co.uk/">Boolean Uk</a>
+- 🌱 I’m still growing my knowledge in everything I learned so far
+- 🔍 Looking for roles as a Junior Developer
+- 📗 Currently reading <a href="https://www.dailycodingproblem.com/">Daily Coding Problem</a>
+- ⚡ Fun fact: In my spare time I love playing Videogames or chilling on the couch with a good movie/tvSeries to watch! 📺 And I really love cats 🐈‍⬛
 
 ---
 

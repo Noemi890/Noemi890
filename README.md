@@ -92,6 +92,14 @@
 
 ---
 
+### :computer: My Projects
+
+| Name | Repository | Description |
+|------|------------|-------------|
+| Cohort Manager 2.0 | [Client](https://github.com/boolean-uk/team-dev-client-c6) and [Server](https://github.com/boolean-uk/team-dev-server-c6)| A Project involving all the Cohort in various aspects of the software. Developed between September/October 2022 |
+| RolePlay | [Client and Server](https://github.com/Noemi890/Roleplay_RPG-Text-based)| Developed as a final Project for the Boolean Careers Bootcamp. A text-based "social-media like" RPG |
+---
+
 ### :fire: My Stats :
 
 <div align='center'>

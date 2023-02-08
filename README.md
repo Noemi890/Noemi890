@@ -98,7 +98,7 @@
 |------|------------|-------------|----------|
 | Cohort Manager 2.0 | [Client](https://github.com/Noemi890/team-dev-client-c6) and [Server](https://github.com/Noemi890/team-dev-server-c6)| A Project involving all the Cohort in various aspects of the software. Developed between September/October 2022 |
 | RolePlay | [Client and Server](https://github.com/Noemi890/Roleplay_RPG-Text-based)| A text-based ‘social media like’ RPG developed during my final weeks at Boolean. |
-| play_nation | [Client](https://github.com/Noemi890/play_nation)| A Serverless website built with mock games data from a Json that allows the user to search for a game and look up the informations about it | [Live App](https://playnation.netlify.app/)
+| play_nation | [Client](https://github.com/Noemi890/play_nation/blob/main/README.md)| A Serverless website built with mock games data from a Json that allows the user to search for a game and look up the informations about it | [Live App](https://playnation.netlify.app/)
 ---
 
 ### :fire: My Stats :

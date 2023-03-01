@@ -41,7 +41,7 @@
 - 🎓 Recently graduated from <a href="https://boolean.co.uk/">Boolean Uk</a>
 - 🌱 I’m still growing my knowledge on React and Javascript
 - 🔍 Looking for roles as a Junior Developer
-- 📗 Currently reading <a href="https://www.dailycodingproblem.com/">Daily Coding Problem</a>
+- 📗 Currently learning Redux and Typescript
 - ⚡ Fun facts: 
   - In my spare time I love playing Videogames 🕹️ 
      - God Of War is my absolute favourite so far :godmode:, with all the Final Fantasy Franchise ⚔️
@@ -94,9 +94,9 @@
 
 ### :computer: My Projects
 
-| Name | Repository | Description | Live App |
-|------|------------|-------------|----------|
-| Cohort Manager 2.0 | [Client](https://github.com/Noemi890/team-dev-client-c6) and [Server](https://github.com/Noemi890/team-dev-server-c6)| A Project involving all the Cohort in various aspects of the software. Developed between September/October 2022 |
+| Name | Repository | Description | Live App | Credentials |
+|------|------------|-------------|----------| ----------- |
+| Cohort Manager 2.0 | [Client](https://github.com/Noemi890/team-dev-client-c6) and [Server](https://github.com/Noemi890/team-dev-server-c6)| A Software developed with my peers during the Boolean Bootcamp. A web-based learning management system where teachers and admins can manage courses and users while allowing interactions among students and teachers by implementing a post area. | [Live App](https://cohort-manager-client.onrender.com) | Student side: test1@test.com / Teacher side: teacher@teacher.com / Admin side: admin@admin.com / developer side: notmyrealemail@email.com - Unique Password: 123
 | RolePlay | [Client and Server](https://github.com/Noemi890/Roleplay_RPG-Text-based)| A text-based ‘social media like’ RPG developed during my final weeks at Boolean. |
 | play_nation | [Client](https://github.com/Noemi890/play_nation/blob/main/README.md)| A Serverless website built with mock games data from a Json that allows the user to search for a game and look up the informations about it | [Live App](https://playnation.netlify.app/)
 ---

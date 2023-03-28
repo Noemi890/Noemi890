@@ -37,14 +37,15 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on my own Portfolio
+- 🔭 I’m currently working on a web chat app built with Typescript and Firebase.
 - 🎓 Recently graduated from <a href="https://boolean.co.uk/">Boolean Uk</a>
 - 🌱 I’m still growing my knowledge on React and Javascript
-- 🔍 Looking for roles as a Junior Developer
+- 🔍 Looking for Junior/Entry Level/Internships Software Developer roles.
 - 📗 Currently learning Redux and Typescript
+  - My next goal will be looking over Python and C#
 - ⚡ Fun facts: 
   - In my spare time I love playing Videogames 🕹️ 
-     - God Of War is my absolute favourite so far :godmode:, with all the Final Fantasy Franchise ⚔️
+     - God Of War is my absolute favourite so far :godmode:, alongside Hogwarts Legacy 🪄 and all the Final Fantasy Franchise ⚔️
   - Or chilling on the couch with a good movie/tvSeries to watch! 📺
     - I love Comedy TvSeries such as Friends 🧑‍🤝‍🧑 and How I met your Mother ☂️ , but I also enjoy Game Of Thrones 🪑 and The Walking Dead 🧟‍♀️ and a lot more
     - My all time favourite movie is Harry Potter 🧙‍♀️ 🪄
@@ -98,7 +99,8 @@
 |------|------------|-------------|----------| ----------- |
 | Cohort Manager 2.0 | [Client](https://github.com/Noemi890/team-dev-client-c6) and [Server](https://github.com/Noemi890/team-dev-server-c6)| A Software developed with my peers during the Boolean Bootcamp. A web-based learning management system where teachers and admins can manage courses and users while allowing interactions among students and teachers by implementing a post area. | [Live App](https://cohort-manager-client.onrender.com) | Student side: test1@test.com / Teacher side: teacher@teacher.com / Admin side: admin@admin.com / developer side: notmyrealemail@email.com - Unique Password: 123
 | RolePlay | [Client and Server](https://github.com/Noemi890/Roleplay_RPG-Text-based)| A text-based ‘social media like’ RPG developed during my final weeks at Boolean. It allows a User to create an account and with the same email have multiple characters. Each character can participate in one Game, posting stories based on that specific game and play with other characters |
-| play_nation | [Client](https://github.com/Noemi890/play_nation/blob/main/README.md)| A Serverless website built with mock games data from a Json that allows the user to search for a game and look up the informations about it | [Live App](https://playnation.netlify.app/)
+| play_nation | [Client](https://github.com/Noemi890/play_nation/blob/main/README.md)| A Serverless website built with mock games data from a Json that allows the user to search for a game and look up the informations about it | [Live App](https://playnation.netlify.app/) |
+| ChatApp | [Repo](https://github.com/Noemi890/typescript-chat) | A simple chat developed to improve my skills with Typescript and Firebase Hosting. A web based chat app that allows the user to login via Google and chat with whoever is in the chat in that specific moment. | [Live App](https://typescript-chat-7885d.firebaseapp.com/) |
 ---
 
 ### :fire: My Stats :

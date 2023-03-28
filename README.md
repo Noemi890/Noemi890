@@ -32,6 +32,7 @@
 &nbsp;
 
 <p align='center'>Between April and October 2022 I've studied at Boolean UK, and I am so glad I did! In those 6 months of my life I learned what it feels like to take on a challenge as well as collaborating with other developers in teams and pairs to produce code following Agile processes and coding best practices</p>
+<p align='center'>Take a look at <a href="https://noemi-portfolio.netlify.app/">my Portfolio!</a></p>
 
 ---
 

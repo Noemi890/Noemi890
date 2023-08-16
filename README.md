@@ -40,10 +40,9 @@
 
 - 🔭 I’m currently working on a web chat app built with Typescript and Firebase.
 - 🎓 Recently graduated from <a href="https://boolean.co.uk/">Boolean Uk</a>
-- 🌱 I’m still growing my knowledge on React and Javascript
+- 🌱 I’m still growing my knowledge on Typescript
 - 🔍 Looking for Junior/Entry Level/Internships Software Developer roles.
-- 📗 Currently learning Redux and Typescript
-  - My next goal will be looking over Python and C#
+- 📗 Currently learning how to use Supabase
 - ⚡ Fun facts: 
   - In my spare time I love playing Videogames 🕹️ 
      - God Of War is my absolute favourite so far :godmode:, alongside Hogwarts Legacy 🪄 and all the Final Fantasy Franchise ⚔️
@@ -61,10 +60,19 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="60"/>&nbsp;
   </picture>
   <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="Next.js" alt="Next.js" width="60"/>&nbsp;
+  </picture>
+  <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="60"/>&nbsp;
   </picture>
   <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="60"/>&nbsp;
+  </picture>
+  <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title="Material UI" alt="Material UI" width="60"/>&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60"/>&nbsp;
   </picture>
   <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="60"/>&nbsp;
@@ -73,22 +81,31 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="60"/>&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="60" />&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="60" />&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" title="Supabase" alt="Supabase" width="60" />&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" title="Prisma" alt="Prisma" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" />&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" />&nbsp;
   </picture>
   <picture>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" title="Prisma" alt="Prisma" width="60" />&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="60" />&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="60" />&nbsp;
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" title="Netlify" alt="Netlify" width="60"/>&nbsp;
   </picture>
 </div>
 
